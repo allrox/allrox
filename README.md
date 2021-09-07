@@ -1,4 +1,4 @@
-### He-e-eeey, obrigado pela visita! 🤘😄
+### Heeeey, obrigado pela visita! 🤘😄
 ##
 
 - 🔭 Head-creative-freela <a href="https://freelaemcasa.com" target="_blank">@FreelaEmCasa</a>.
