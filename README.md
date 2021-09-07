@@ -1,16 +1,24 @@
-### Hi there 👋
+### He-e-eeey, obrigado pela visita! 🤘😄
+##
 
-<!--
-**allrox/allrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Head-creative-freela <a href="https://freelaemcasa.com" target="_blank">@FreelaEmCasa</a>.
+- 📫 alexandre@allrox.com.br
+- 📱 21 96910-4763
+- ⏳ Engenharia de Software - Estácio
+- 👨‍🎓 Administração, Finanças e Geração de Valor - PucRS
+- 👨‍🎓 Marketing e Comunicação em Mídias Digitais - Estácio
+- 👨‍🎓 Marketing - Estácio
+- 👨‍🎓 Técnico em PD (Pois é, um cara antigo! 😁)
+##
+ <div>
+  <a href="https://github.com/allrox">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allrox&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allrox&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  
+  
+<div> 
+  <a href="https://instagram.com/allrox" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alexandre@allrox.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/allrox" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
