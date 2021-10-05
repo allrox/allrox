@@ -13,7 +13,7 @@
  <div>
   <a href="https://github.com/allrox">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=allrox&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allrox&layout=compact&langs_count=20&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allrox&langs_count=8&theme=dark"/>
 </div>
 
 ##  
