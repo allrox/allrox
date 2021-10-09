@@ -13,7 +13,7 @@
  <div>
   <a href="https://github.com/allrox">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allrox&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@allrox" frameborder="0"></iframe>
+  <div style="width=600px, height=600px" src="https://ionicabizau.github.io/github-profile-languages/api.html?@allrox"></div>
 </div>
 
 ##  
