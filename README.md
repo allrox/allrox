@@ -5,12 +5,12 @@
 - 💎 CEO <a href="https://universidadefreela.com" target="_blank">@UniversidadeFreela</a>.
 - 📫 alexandre@allrox.com.br
 - 📱 21 96910-4763
-- ⏳ Engenharia de Software - Estácio
-- 👨‍🎓 MBA em Tecnologia para negócios: AI, Data Science e Big Data - PucRS
-- 👨‍🎓 MBA em Administração, Finanças e Geração de Valor - PucRS
-- 👨‍🎓 MBA em Marketing e Comunicação em Mídias Digitais - Estácio
-- 👨‍🎓 Marketing - Estácio
-- 👨‍🎓 Técnico em PD (Pois é, um cara antigo! 😁)
+- ⏳ Engenharia de Software - Estácio (Sem pressa 😁)
+- 👨‍🎓 MBA em Tecnologia para negócios: AI, Data Science e Big Data - PucRS 2023
+- 👨‍🎓 MBA em Administração, Finanças e Geração de Valor - PucRS 2020
+- 👨‍🎓 MBA em Marketing e Comunicação em Mídias Digitais - Estácio 2018
+- 👨‍🎓 Marketing - Estácio 2011
+- 👨‍🎓 Técnico em PD (Pois é, um cara antigo! 😁) - 1999
 ##
  <div>
   <a href="https://github.com/allrox">
