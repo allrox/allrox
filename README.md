@@ -1,11 +1,12 @@
 ### Heeeey, obrigado pela visita! 🤘😄
 ##
 
-- 🔭 Head-creative-freela <a href="https://freelaemcasa.com" target="_blank">@FreelaEmCasa</a>.
+- 💎 CMTO <a href="https://freelaemcasa.com" target="_blank">@FreelaEmCasa</a>.
+- 💎 CEO <a href="https://universidadefreela.com" target="_blank">@UniversidadeFreela</a>.
 - 📫 alexandre@allrox.com.br
 - 📱 21 96910-4763
-- ⏳ MBA em Tecnologia para negócios: AI, Data Science e Big Data - PucRS
 - ⏳ Engenharia de Software - Estácio
+- 👨‍🎓 MBA em Tecnologia para negócios: AI, Data Science e Big Data - PucRS
 - 👨‍🎓 MBA em Administração, Finanças e Geração de Valor - PucRS
 - 👨‍🎓 MBA em Marketing e Comunicação em Mídias Digitais - Estácio
 - 👨‍🎓 Marketing - Estácio
