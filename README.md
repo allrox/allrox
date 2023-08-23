@@ -1,8 +1,6 @@
 ### Heeeey, obrigado pela visita! 🤘😄
 ##
 
-- 💎 CMTO <a href="https://freelaemcasa.com" target="_blank">@FreelaEmCasa</a>.
-- 💎 CEO <a href="https://universidadefreela.com" target="_blank">@UniversidadeFreela</a>.
 - 📫 alexandre@allrox.com.br
 - 📱 21 96910-4763
 - ⏳ Engenharia de Software - Estácio (Sem pressa 😁)
